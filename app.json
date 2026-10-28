@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "MiPause",
+    "slug": "mipause-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "mipause",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#F8FAFC"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F8FAFC"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
